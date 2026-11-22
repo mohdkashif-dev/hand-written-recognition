@@ -1,0 +1,9 @@
+{
+  "model": "3-nearest neighbors",
+  "train_images": 200,
+  "test_images": 100,
+  "correct": 82,
+  "errors": 18,
+  "accuracy": 0.82,
+  "macro_f1": 0.8137496816908583
+}
